@@ -8,5 +8,7 @@ package com.atguigu.test;
 public class SwhTest {
     public static void main(String[] args) {
         System.out.println("我是风清扬");
+        System.out.println("老马是个老鸨子");
+
     }
 }
