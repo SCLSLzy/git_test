@@ -13,6 +13,8 @@ public class SwhTest {
 
         System.out.println("这是git测试");
 
+        System.out.println("swh已经在gitHub上拉取项目了");
+
     }
 
 }
